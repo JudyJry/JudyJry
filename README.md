@@ -1,0 +1,14 @@
+- 👋 Hi, I’m JudyHsih
+- 👉 This is my profile website : [👉Click Me👈](https://judyjry.github.io/JudyHsih/)
+- 👀 I’m interested in ...
+  - Draw Anime Charactor
+  - Program Coding
+  - Play Game
+- 🌱 I’m currently learning ...
+  - React
+  - PHP
+  - MySQL
+- 📫 How to reach me ...
+  - My Gmail : judyjry0127@gmail.com
+  - My Facebook Page : [👉Click Me👈](https://www.facebook.com/Judy0127)
+
