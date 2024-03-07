@@ -6,8 +6,7 @@
   - Play Game
 - 🌱 I’m currently learning ...
   - React
-  - PHP
-  - MySQL
+  - Vue
 - 📫 How to reach me ...
   - My Gmail : judyjry0127@gmail.com
   - My Facebook Page : [👉Click Me👈](https://www.facebook.com/Judy0127)
